@@ -9,6 +9,6 @@
 * [Call-Function](call-function.md)
 * [Chat-Call-Enjoy](chat-call-enjoy.md)
   * [Verification](chat-call-enjoy/verification.md)
-  * Consideration
+  * [Consideration](chat-call-enjoy/consideration.md)
 * [Conclution](conclution.md)
 
