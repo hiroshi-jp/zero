@@ -2,8 +2,10 @@
 
 * [Introduction](README.md)
 * [Purpose](purpose.md)
+* [Preparation](preparation.md)
 * [Setup](chapter1.md)
-  * [Bluemix](chapter1/bluemix.md)
+  * [Node.js](chapter1/nodejs.md)
+  * [Cloud](chapter1/cloud.md)
   * [BIG-IP](chapter1/big-ip.md)
 * [Chat-Bot](chat-bot.md)
 * [Call-Function](call-function.md)
