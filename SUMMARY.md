@@ -9,6 +9,7 @@
 * [Setup](chapter1.md)
   * [Chat-Bot](chapter1/chat-bot.md)
   * [Call-Function](chapter1/call-function.md)
+  * [Bluemix](chapter1/bluemix.md)
 * [Chat-Call-Enjoy](chat-call-enjoy.md)
   * [Verification](chat-call-enjoy/verification.md)
   * [Consideration](chat-call-enjoy/consideration.md)
