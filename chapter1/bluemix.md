@@ -4,3 +4,4 @@ Bluemixガンガンいくよー！
 
 コードはGitHubから、、
 
+_Bluemix上にVmwareいれて、そこにBIG-IPいれるのはどう？？_
