@@ -7,9 +7,8 @@
   * [Cloud](chapter1/cloud.md)
   * [BIG-IP](chapter1/big-ip.md)
 * [Setup](chapter1.md)
-  * aa
-* [Chat-Bot](chat-bot.md)
-* [Call-Function](call-function.md)
+  * [Chat-Bot](chapter1/chat-bot.md)
+  * [Call-Function](chapter1/call-function.md)
 * [Chat-Call-Enjoy](chat-call-enjoy.md)
   * [Verification](chat-call-enjoy/verification.md)
   * [Consideration](chat-call-enjoy/consideration.md)
