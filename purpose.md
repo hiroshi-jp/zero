@@ -1,6 +1,3 @@
 # 本書の目的
 
 Node.js環境をクラウドにデプロイしてみて、遊んじゃおう！！
-
-| ![](/assets/nodejs-new-pantone-white.png) |
-| :--- |

@@ -1,3 +1,5 @@
-# First Chapter
+# まとめ
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+あんまり、おもしろくないよねー
+なんで、続編にご期待ください！！
+続編のモンスターは！！、なんと・・！
