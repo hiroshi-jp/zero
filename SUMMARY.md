@@ -8,5 +8,7 @@
 * [Chat-Bot](chat-bot.md)
 * [Call-Function](call-function.md)
 * [Chat-Call-Enjoy](chat-call-enjoy.md)
+  * [Verification](chat-call-enjoy/verification.md)
+  * Consideration
 * [Conclution](conclution.md)
 
